@@ -1,2 +1,2 @@
 # SyntaxSquad_AIML
- AI-powered job matching platform.
+ JobGrind.io -> AI-powered job matching platform.
